@@ -1,0 +1,30 @@
+
+
+.banner{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(49, 104, 144);
+    
+    
+}
+
+
+
+.img1{
+  border-radius: 50%; 
+  margin-left: 3%; 
+  border: 1px solid black;
+}
+.acercade{
+   margin-left: 3%;
+}
+
+.experiencialaboral{
+  margin-top: 5%;
+  margin-left: 3%;
+}
+
+.educacion{
+  margin-top: 5%;
+  margin-left: 3%;
+}
